@@ -1,5 +1,5 @@
 {
-    "name": "thopra/kss-php",
+    "name": "kss-php/kss-php",
     "description": "A PHP implementation of KSS: a methodology for documenting CSS and generating styleguides",
     "keywords": [
         "kss",
